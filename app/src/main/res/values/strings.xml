@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MagicTyping</string>
+    <string-array name="key_mapping">
+        <item>/n|9</item>
+        <item>    |0</item>
+        <item>a|3</item>
+        <item> |8</item>
+        <item>e|4</item>
+        <item>o|5</item>
+        <item>r|6</item>
+        <item>i|2</item>
+        <item>s|1</item>
+        <item>n|7</item>
+        <item>t|23</item>
+        <item>l|24</item>
+        <item>m|25</item>
+        <item>d|34</item>
+        <item>c|35</item>
+        <item>p|45</item>
+        <item>n|234</item>
+        <item>b|235</item>
+        <item>u|345</item>
+        <item>k|01</item>
+        <item>g|04</item>
+        <item>y|05</item>
+        <item>f|0123</item>
+        <item>w|4567</item>
+        <item>j|0124</item>
+        <item>v|0125</item>
+        <item>z|1234</item>
+        <item>x|12345</item>
+        <item>q|34567</item>
+        <item>backSpace|2345</item>
+        <item>0|09</item>
+        <item>1|19</item>
+        <item>2|29</item>
+        <item>3|39</item>
+        <item>4|49</item>
+        <item>5|59</item>
+        <item>6|69</item>
+        <item>7|79</item>
+        <item>8|89</item>
+        <item>9|349</item>
+    </string-array>
+</resources>
